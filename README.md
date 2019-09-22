@@ -1,2 +1,3 @@
 # C-Sharp
 项目运行还需要vlc的dll动态链接库，并且要放在编译出来的exe目录中
+vlc动态链接库获取就是安装vlc，在vlc的安装目录下面，把libvlc.dll，libvlccore.dll两个文件和一个plugins文件夹拷贝出来使用
